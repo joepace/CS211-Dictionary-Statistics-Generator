@@ -1,0 +1,5 @@
+See readme.pdf file for part 1 for in-depth detail.
+
+Essentially, the only changes I made from part 1 to part 2 was in the matchStr() function. Instead of checking to see if the word from the dictionary file was a prefix of the word from the data file, I reversed it.
+
+Unfortunately, I did not have enough time to properly attempt this program, so only the early testcases work properly.
